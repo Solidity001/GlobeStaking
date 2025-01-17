@@ -9,7 +9,7 @@ export default function Navbar() {
         <Container maxW={"1200px"} py={4}>
             <Flex direction={"row"} justifyContent={"space-between"} alignItems={"center"}>
                 {/* Replace Heading with Globe Token */}
-                <Heading>Globe Token</Heading>
+                <Heading>Stake GLOB</Heading>
 
                 {/* Right Section */}
                 <Flex alignItems={"center"} gap={4}>

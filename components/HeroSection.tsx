@@ -46,17 +46,20 @@ export default function HeroSection() {
                         alignSelf={'center'}
                         position={'relative'}
                     >
-                        <Button
-                            colorScheme={'green'}
-                            bg={'#107575'}
-                            rounded={'full'}
-                            px={6}
-                            _hover={{
-                                bg: 'green',
-                            }}
-                        >
-                            Get Started
-                        </Button>
+                        <a href="https://globedefi.vercel.app/" target="_blank" rel="noopener noreferrer">
+                            <Button
+                                colorScheme={'green'}
+                                bg={'#107575'}
+                                rounded={'full'}
+                                px={6}
+                                _hover={{
+                                    bg: 'green',
+                                }}
+                            >
+                                Get Started
+                            </Button>
+                        </a>
+
                         <Button
                             as="a"
                             href="https://globetoken.site/"
