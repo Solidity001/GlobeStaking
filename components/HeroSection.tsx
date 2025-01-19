@@ -46,7 +46,7 @@ export default function HeroSection() {
                         alignSelf={'center'}
                         position={'relative'}
                     >
-                        <a href="https://medium.com/@contact_66672/globe-defi-how-to-get-started-staking-70692eb00a00" target="_blank" rel="noopener noreferrer">
+                        <a href="https://globedefi.vercel.app/" target="_blank" rel="noopener noreferrer">
                             <Button
                                 colorScheme={'green'}
                                 bg={'#107575'}
